@@ -9,5 +9,5 @@ In the splits, fields "label_state" and "label_state_admin" mean the labels cont
 - 5 : maybe positive (by 1 volunteer)
 - 20 : weak negative (by 3 volunteers)
 - 19 : weak positive (by 3 volunteers)
-- 16 : strong negative (by 2 volunteers)
-- 23 : strong positive (by 2 volunteers)
+- 16 : strong negative (by 2 volunteers or 1 expert)
+- 23 : strong positive (by 2 volunteers or 1 expert)
