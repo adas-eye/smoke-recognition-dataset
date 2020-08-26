@@ -1,6 +1,6 @@
 **This repository is for the anonymous reviewing process, and it should NOT be used for other purposes. This repository only contains a partial dataset due to space limitations and the requirement of a double-blind review.**
 
-#Dataset
+# Dataset
 
 In the splits, fields "label_state" and "label_state_admin" mean the labels contributed by citizens and researchers, respectively. Field "label" means the final aggregated label. Positive and negative labels mean if the video clip has smoke emissions or not, respectively. The followings explain the label states:
 - 23 : strong positive
